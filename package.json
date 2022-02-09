@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "portfolio-generator",
+  "description": "- eventually something\r - eventually something\r - eventually something\r - eventually something\r - eventually something\r - eventually something\r #### [Github link](https://github.com)",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Besupan/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Besupan/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Besupan/portfolio-generator#readme"
+}
